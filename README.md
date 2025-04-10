@@ -1,1 +1,3 @@
 Our work introduces a Regional Economic Spatiotemporal Knowledge Graph (REST-KG), which leverages multidimensional data to capture the complex interplay of economic indicators over time and space. By employing relational graph convolutional networks, integrating neighborhood information to enhance knowledge representation, and combining machine learning methods for knowledge reasoning, we can not only infer the potential correlation between economic factors, identify the driving factors affecting economic growth, but also predict the future trends of key economic indicators such as GDP.
+run.py is the code for rgcn training
+connect_predict.py is the relationship prediction code
